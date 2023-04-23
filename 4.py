@@ -13,3 +13,4 @@ elif viruchka < izdergka:
     print('Убыток -', poteri)
 else:
     print('фин.результат - ноль. Выручка равна издержкам.')
+#Задание 4
